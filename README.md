@@ -20,4 +20,4 @@ Tools: Anaconda (Jupyter Note Book IDE) <br />
 Hard Disk:500GB and Above <br />
 RAM:4GB and Above <br />
 Processor:I3 and Above <br />
-Webcam
+Webcam.
